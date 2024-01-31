@@ -1,0 +1,581 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head itemscope itemtype="https://schema.org/WebSite">
+<meta charset="UTF-8" />
+<meta name="description" content="A Fashion + Lifestyle Blog by Leena Asad" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>With Love, Leena. – A Fashion + Lifestyle Blog by Leena Asad</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="With Love, Leena. &raquo; Feed" href="https://www.withloveleena.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="With Love, Leena. &raquo; Comments Feed" href="https://www.withloveleena.com/comments/feed/" />
+<link rel="canonical" href="https://www.withloveleena.com/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.withloveleena.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.9"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://www.withloveleena.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=2.9.1' media='all' />
+<link rel='stylesheet' id='alternative-css'  href='https://www.withloveleena.com/wp-content/themes/alt/style.css?ver=1.6.6' media='all' />
+<style id='alternative-inline-css'>
+.genesis-nav-menu a:focus, .genesis-nav-menu a:hover, .genesis-nav-menu .sub-menu .current-menu-item > a:focus, .genesis-nav-menu .sub-menu .current-menu-item > a:hover, .nav-search a:focus, .nav-search a:hover, .menu-toggle:hover, .sub-menu-toggle:hover {color: #ebccbc;}.more-from-category a:hover, button:focus, button:hover, input[type="button"]:focus, input[type="button"]:hover, input[type="reset"]:focus, input[type="reset"]:hover, input[type="submit"]:focus, input[type="submit"]:hover, .button:focus, .button:hover, .comment-reply a:hover, .comment-reply a:focus, .more-link:hover, .more-link:focus, .user-profile p .pagelink:hover, .user-profile p .pagelink:focus {background: #ebccbc;border-color: #ebccbc;}.woocommerce a.button:focus, .woocommerce a.button:hover, .woocommerce a.button.alt:focus, .woocommerce a.button.alt:hover, .woocommerce button.button:focus, .woocommerce button.button:hover, .woocommerce button.button.alt:focus, .woocommerce button.button.alt:hover, .woocommerce input.button:focus, .woocommerce input.button:hover, .woocommerce input.button.alt:focus, .woocommerce input.button.alt:hover, .woocommerce input[type="submit"]:focus, .woocommerce input[type="submit"]:hover, .woocommerce #respond input#submit:focus, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit.alt:focus, .woocommerce #respond input#submit.alt:hover, #sb_instagram .sbi_follow_btn a:hover, .pin-button a:hover {background: #ebccbc !important;border-color: #ebccbc !important;}.site-footer, .footer-area-two, .footer-area-two .widget-title span, .site-footer .widget-title span {background: #ebccbc;}.footer-area-two input, .footer-area-two select, .footer-area-two textarea {border-color: #ebccbc;}.site-footer a:hover, .site-footer a:focus, .footer-area-two a:hover, .footer-area-two a:focus {color: #ffffff;}.comment-content {background: #ebccbc;}.slider-widget .item a, .slider-widget .item, .grid-overlay .entry-title, .ud-grid a, .featured-item, .featured-item .post-cat, .featured-item .read-more a, .featured-item a {color: #f4ebe7;}.shop-info a, .shop-info .read-more span {color: #f4ebe7 !important;}.featured-item .read-more a, .shop-info .read-more span {-webkit-box-shadow: inset 0 -1px 0 #f4ebe7 !important;box-shadow: inset 0 -1px 0 #f4ebe7 !important;}.header-image .title-area {max-width: 430px;}.ud-slider .item-img {height: 490px;}
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.withloveleena.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9.9' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='https://www.withloveleena.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://www.withloveleena.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.9.9' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--theme-charcoal: #231f20;--wp--preset--color--theme-carmine: #921515;--wp--preset--color--theme-pastelpink: #d8a5a4;--wp--preset--color--theme-opal: #9CBAB4;--wp--preset--color--theme-teal: #6C8A84;--wp--preset--color--theme-burlywood: #E0B997;--wp--preset--color--theme-pale: #D7CEC9;--wp--preset--color--theme-blush: #D2B6B2;--wp--preset--color--theme-tuscany: #c39a8e;--wp--preset--color--theme-brown: #a47f74;--wp--preset--color--theme-umber: #86624f;--wp--preset--color--theme-bistre: #44291d;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 12px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 31px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 18px;--wp--preset--font-size--larger: 37px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='popup_style-css'  href='https://www.withloveleena.com/wp-content/plugins/ud-popup-subscribe//css/popup-style.css?ver=1' media='all' />
+<link rel='stylesheet' id='uaf_client_css-css'  href='https://www.withloveleena.com/wp-content/uploads/useanyfont/uaf.css?ver=1706546403' media='all' />
+<link rel='stylesheet' id='font-awesome-4-css'  href='https://www.withloveleena.com/wp-content/themes/alt/fonts/fontawesome/css/font-awesome.min.css?ver=1.6.6' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://www.withloveleena.com/wp-content/themes/alt/lib/slick/slick.css?ver=5.9.9' media='all' />
+<link rel='stylesheet' id='ud-fonts-css'  href='https://fonts.googleapis.com/css2?family=EB+Garamond%3Aital%400%3B1&#038;display=swap&#038;ver=1.6.6' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.withloveleena.com/wp-includes/css/dashicons.min.css?ver=5.9.9' media='all' />
+<link rel='stylesheet' id='alternative-gutenberg-css'  href='https://www.withloveleena.com/wp-content/themes/alt/lib/gutenberg/front-end.css?ver=1.6.6' media='all' />
+<style id='alternative-gutenberg-inline-css'>
+	.ab-block-post-grid .ab-post-grid-items h2 a:hover {
+		color: #afafaf;
+	}
+	.site-container .wp-block-button .wp-block-button__link {
+		background-color: #000000;
+	}
+	.wp-block-button .wp-block-button__link:not(.has-background), .wp-block-button .wp-block-button__link:not(.has-background):focus, .wp-block-button .wp-block-button__link:not(.has-background):hover {
+		color: #ffffff;
+	}
+	.site-container .wp-block-button.is-style-outline .wp-block-button__link {
+		color: #000000;
+	}
+	.site-container .wp-block-button.is-style-outline .wp-block-button__link:focus, .site-container .wp-block-button.is-style-outline .wp-block-button__link:hover {
+		color: #000000;
+	}		.site-container .has-small-font-size {
+			font-size: 12px;
+		}		.site-container .has-normal-font-size {
+			font-size: 18px;
+		}		.site-container .has-large-font-size {
+			font-size: 31px;
+		}		.site-container .has-larger-font-size {
+			font-size: 37px;
+		}		.site-container .has-theme-charcoal-color, .site-container .wp-block-button .wp-block-button__link.has-theme-charcoal-color, .site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-charcoal-color {
+			color: #231f20;
+		}
+		.site-container .has-theme-charcoal-background-color, .site-container .wp-block-button .wp-block-button__link.has-theme-charcoal-background-color, .site-container .wp-block-pullquote.is-style-solid-color.has-theme-charcoal-background-color {
+			background-color: #231f20;
+		}		.site-container .has-theme-carmine-color, .site-container .wp-block-button .wp-block-button__link.has-theme-carmine-color, .site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-carmine-color {
+			color: #921515;
+		}
+		.site-container .has-theme-carmine-background-color, .site-container .wp-block-button .wp-block-button__link.has-theme-carmine-background-color, .site-container .wp-block-pullquote.is-style-solid-color.has-theme-carmine-background-color {
+			background-color: #921515;
+		}		.site-container .has-theme-pastelpink-color, .site-container .wp-block-button .wp-block-button__link.has-theme-pastelpink-color, .site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-pastelpink-color {
+			color: #d8a5a4;
+		}
+		.site-container .has-theme-pastelpink-background-color, .site-container .wp-block-button .wp-block-button__link.has-theme-pastelpink-background-color, .site-container .wp-block-pullquote.is-style-solid-color.has-theme-pastelpink-background-color {
+			background-color: #d8a5a4;
+		}		.site-container .has-theme-opal-color, .site-container .wp-block-button .wp-block-button__link.has-theme-opal-color, .site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-opal-color {
+			color: #9CBAB4;
+		}
+		.site-container .has-theme-opal-background-color, .site-container .wp-block-button .wp-block-button__link.has-theme-opal-background-color, .site-container .wp-block-pullquote.is-style-solid-color.has-theme-opal-background-color {
+			background-color: #9CBAB4;
+		}		.site-container .has-theme-teal-color, .site-container .wp-block-button .wp-block-button__link.has-theme-teal-color, .site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-teal-color {
+			color: #6C8A84;
+		}
+		.site-container .has-theme-teal-background-color, .site-container .wp-block-button .wp-block-button__link.has-theme-teal-background-color, .site-container .wp-block-pullquote.is-style-solid-color.has-theme-teal-background-color {
+			background-color: #6C8A84;
+		}		.site-container .has-theme-burlywood-color, .site-container .wp-block-button .wp-block-button__link.has-theme-burlywood-color, .site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-burlywood-color {
+			color: #E0B997;
+		}
+		.site-container .has-theme-burlywood-background-color, .site-container .wp-block-button .wp-block-button__link.has-theme-burlywood-background-color, .site-container .wp-block-pullquote.is-style-solid-color.has-theme-burlywood-background-color {
+			background-color: #E0B997;
+		}		.site-container .has-theme-pale-color, .site-container .wp-block-button .wp-block-button__link.has-theme-pale-color, .site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-pale-color {
+			color: #D7CEC9;
+		}
+		.site-container .has-theme-pale-background-color, .site-container .wp-block-button .wp-block-button__link.has-theme-pale-background-color, .site-container .wp-block-pullquote.is-style-solid-color.has-theme-pale-background-color {
+			background-color: #D7CEC9;
+		}		.site-container .has-theme-blush-color, .site-container .wp-block-button .wp-block-button__link.has-theme-blush-color, .site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-blush-color {
+			color: #D2B6B2;
+		}
+		.site-container .has-theme-blush-background-color, .site-container .wp-block-button .wp-block-button__link.has-theme-blush-background-color, .site-container .wp-block-pullquote.is-style-solid-color.has-theme-blush-background-color {
+			background-color: #D2B6B2;
+		}		.site-container .has-theme-tuscany-color, .site-container .wp-block-button .wp-block-button__link.has-theme-tuscany-color, .site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-tuscany-color {
+			color: #c39a8e;
+		}
+		.site-container .has-theme-tuscany-background-color, .site-container .wp-block-button .wp-block-button__link.has-theme-tuscany-background-color, .site-container .wp-block-pullquote.is-style-solid-color.has-theme-tuscany-background-color {
+			background-color: #c39a8e;
+		}		.site-container .has-theme-brown-color, .site-container .wp-block-button .wp-block-button__link.has-theme-brown-color, .site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-brown-color {
+			color: #a47f74;
+		}
+		.site-container .has-theme-brown-background-color, .site-container .wp-block-button .wp-block-button__link.has-theme-brown-background-color, .site-container .wp-block-pullquote.is-style-solid-color.has-theme-brown-background-color {
+			background-color: #a47f74;
+		}		.site-container .has-theme-umber-color, .site-container .wp-block-button .wp-block-button__link.has-theme-umber-color, .site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-umber-color {
+			color: #86624f;
+		}
+		.site-container .has-theme-umber-background-color, .site-container .wp-block-button .wp-block-button__link.has-theme-umber-background-color, .site-container .wp-block-pullquote.is-style-solid-color.has-theme-umber-background-color {
+			background-color: #86624f;
+		}		.site-container .has-theme-bistre-color, .site-container .wp-block-button .wp-block-button__link.has-theme-bistre-color, .site-container .wp-block-button.is-style-outline .wp-block-button__link.has-theme-bistre-color {
+			color: #44291d;
+		}
+		.site-container .has-theme-bistre-background-color, .site-container .wp-block-button .wp-block-button__link.has-theme-bistre-background-color, .site-container .wp-block-pullquote.is-style-solid-color.has-theme-bistre-background-color {
+			background-color: #44291d;
+		}
+</style>
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.withloveleena.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.9.2' media='all' />
+<script src='https://www.withloveleena.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='https://www.withloveleena.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.withloveleena.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.withloveleena.com/xmlrpc.php?rsd" />
+				<style type="text/css">
+					@font-face {font-family: "MADE SAONARA";font-display: auto;font-fallback: ;font-weight: 100;src: url(http://www.withloveleena.com/wp-content/uploads/2021/06/made_saonara-webfont.woff) format('woff2');}				</style>
+				<style type="text/css" media="screen"></style><style type='text/css'>img#wpstats{display:none}</style>
+		<link rel="pingback" href="https://www.withloveleena.com/xmlrpc.php" />
+<link rel="next" href="https://www.withloveleena.com/page/2/" />
+<meta itemprop="name" content="With Love, Leena." />
+<meta itemprop="url" content="https://www.withloveleena.com/" />
+<style type="text/css" media="screen"> #ud-social-media-icons-3 a, #ud-social-media-icons-3 a:focus { color: #231f20; font-size: 10px; } #ud-social-media-icons-3 .smi-vsco svg, #ud-social-media-icons-3 .smi-vsco svg:focus { fill: #231f20; width: 10px; height: 10px; } #ud-social-media-icons-3 ul li a:hover, #ud-social-media-icons-3 ul li a:focus { color: #d8a5a4; } #ud-social-media-icons-3 ul .smi-vsco a:hover svg, #ud-social-media-icons-3 ul .smi-vsco a:focus svg { fill: #d8a5a4; } </style><style type="text/css" media="screen"> #ud-social-media-icons-4 a, #ud-social-media-icons-4 a:focus { color: #231f20; font-size: 10px; } #ud-social-media-icons-4 .smi-vsco svg, #ud-social-media-icons-4 .smi-vsco svg:focus { fill: #231f20; width: 10px; height: 10px; } #ud-social-media-icons-4 ul li a:hover, #ud-social-media-icons-4 ul li a:focus { color: #d8a5a4; } #ud-social-media-icons-4 ul .smi-vsco a:hover svg, #ud-social-media-icons-4 ul .smi-vsco a:focus svg { fill: #d8a5a4; } </style><style type="text/css" media="screen"> #ud-social-media-icons-5 a, #ud-social-media-icons-5 a:focus { color: #231f20; font-size: 10px; } #ud-social-media-icons-5 .smi-vsco svg, #ud-social-media-icons-5 .smi-vsco svg:focus { fill: #231f20; width: 10px; height: 10px; } #ud-social-media-icons-5 ul li a:hover, #ud-social-media-icons-5 ul li a:focus { color: #d8a5a4; } #ud-social-media-icons-5 ul .smi-vsco a:hover svg, #ud-social-media-icons-5 ul .smi-vsco a:focus svg { fill: #d8a5a4; } </style><style type="text/css" media="screen"> #ud-social-media-icons-6 a, #ud-social-media-icons-6 a:focus { color: #231f20; font-size: 10px; } #ud-social-media-icons-6 .smi-vsco svg, #ud-social-media-icons-6 .smi-vsco svg:focus { fill: #231f20; width: 10px; height: 10px; } #ud-social-media-icons-6 ul li a:hover, #ud-social-media-icons-6 ul li a:focus { color: #d8a5a4; } #ud-social-media-icons-6 ul .smi-vsco a:hover svg, #ud-social-media-icons-6 ul .smi-vsco a:focus svg { fill: #d8a5a4; } </style><style type="text/css" media="screen"> #ud-social-media-icons-8 a, #ud-social-media-icons-8 a:focus { color: #000000; font-size: 13px; } #ud-social-media-icons-8 .smi-vsco svg, #ud-social-media-icons-8 .smi-vsco svg:focus { fill: #000000; width: 13px; height: 13px; } #ud-social-media-icons-8 ul li a:hover, #ud-social-media-icons-8 ul li a:focus { color: #ebccbc; } #ud-social-media-icons-8 ul .smi-vsco a:hover svg, #ud-social-media-icons-8 ul .smi-vsco a:focus svg { fill: #ebccbc; } </style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="With Love, Leena." />
+<meta property="og:description" content="A Fashion + Lifestyle Blog by Leena Asad" />
+<meta property="og:url" content="https://www.withloveleena.com/" />
+<meta property="og:site_name" content="With Love, Leena." />
+<meta property="og:image" content="https://www.withloveleena.com/wp-content/uploads/2021/06/cropped-FICON.png" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta property="og:locale" content="en_US" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://www.withloveleena.com/wp-content/uploads/2021/06/cropped-FICON-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.withloveleena.com/wp-content/uploads/2021/06/cropped-FICON-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.withloveleena.com/wp-content/uploads/2021/06/cropped-FICON-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.withloveleena.com/wp-content/uploads/2021/06/cropped-FICON-270x270.png" />
+<style> .kirki-customizer-loading-wrapper { background-image: none; }</style>			<style type="text/css" id="wp-custom-css">
+				@media only screen and (max-width: 860px) {.ud-video .fa{font-size: 25px;}}
+.ud-ytplay {
+    background-color: transparent;
+}
+			</style>
+		<style id="kirki-inline-styles"></style></head>
+<body class="home blog wp-embed-responsive custom-header header-image header-full-width full-width-content genesis-breadcrumbs-hidden genesis-footer-widgets-hidden" itemscope itemtype="https://schema.org/WebPage"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div class="site-container"><ul class="genesis-skip-link"><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to main content</a></li></ul><div class="nav-outer"><nav class="nav-primary" aria-label="Main" itemscope itemtype="https://schema.org/SiteNavigationElement" id="genesis-nav-primary"><div class="wrap"><ul id="menu-primary-navigation" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-2060" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2060"><a href="http://www.withloveleena.com/" aria-current="page" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li id="menu-item-7501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7501"><a href="https://www.withloveleena.com/about/" itemprop="url"><span itemprop="name">About Me</span></a></li>
+<li id="menu-item-9045" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9045"><a href="https://www.withloveleena.com/shop-my-instagram/" itemprop="url"><span itemprop="name">Shop My Instagram</span></a></li>
+<li id="menu-item-8583" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8583"><a href="https://www.withloveleena.com/category/home/" itemprop="url"><span itemprop="name">Home Decor</span></a></li>
+<li id="menu-item-8582" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8582"><a href="https://www.withloveleena.com/category/travel/" itemprop="url"><span itemprop="name">Travel</span></a></li>
+<li id="menu-item-8579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8579"><a href="https://www.withloveleena.com/my-youtube-channel/" itemprop="url"><span itemprop="name">YouTube</span></a></li>
+<li id="menu-item-10499" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10499"><a itemprop="url"><span itemprop="name">Baby</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-10503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10503"><a href="https://www.withloveleena.com/baby-gear/" itemprop="url"><span itemprop="name">Baby Gear</span></a></li>
+</ul>
+</li>
+<li id="menu-item-9432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9432"><a itemprop="url"><span itemprop="name">Shop</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-10334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10334"><a href="https://www.withloveleena.com/mom-baby/" itemprop="url"><span itemprop="name">Pregnancy &#038; Postpartum</span></a></li>
+	<li id="menu-item-9450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9450"><a href="https://www.withloveleena.com/home/" itemprop="url"><span itemprop="name">Home Decor</span></a></li>
+	<li id="menu-item-9448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9448"><a href="https://www.withloveleena.com/amazon/" itemprop="url"><span itemprop="name">Amazon Finds</span></a></li>
+	<li id="menu-item-9451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9451"><a href="https://www.withloveleena.com/makeup/" itemprop="url"><span itemprop="name">Makeup</span></a></li>
+	<li id="menu-item-9449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9449"><a href="https://www.withloveleena.com/skincare/" itemprop="url"><span itemprop="name">Skincare</span></a></li>
+</ul>
+</li>
+</ul></div></nav><div class="nav-search"><a class="search-toggle"><i class="fa fa-search"></i></a><div class="social-header"><section id="ud-social-media-icons-8" class="widget ud-social-media-icons"><div class="widget-wrap"><ul><li class="smi-instagram"><a href="https://www.instagram.com/withloveleena/" target="_blank"><i class="fa fa-instagram"></i><span>Instagram</span></a></li><li class="smi-pinterest"><a href="https://www.pinterest.ca/Withloveleena/_created/" target="_blank"><i class="fa fa-pinterest-p"></i><span>Pinterest</span></a></li><li class="smi-facebook"><a href="https://www.facebook.com/withloveleena/" target="_blank"><i class="fa fa-facebook-f"></i><span>Facebook</span></a></li><li class="smi-youtube"><a href="https://www.youtube.com/channel/UCFlVeT7oDLA2JhU57Ed3JKA?app=desktop" target="_blank"><i class="fa fa-youtube"></i><span>YouTube</span></a></li></ul></div></section>
+</div></div></div><header class="site-header" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><a href="https://www.withloveleena.com/" rel="home"><img src="https://www.withloveleena.com/wp-content/uploads/2021/06/cropped-PRIMARY-LOGO-4.png" width="483" height="270" alt="With Love, Leena."></a>
+        <h1 class="site-title" itemprop="headline"><a href="https://www.withloveleena.com/">With Love, Leena.</a></h1><p class="site-description" itemprop="description">A Fashion + Lifestyle Blog by Leena Asad</p></div></div></header><div class="search-container"><a class="b-close"><div class="b-close-inner"><div class="b-close-a"></div><div class="b-close-b"></div></div></a><div class="search-a"><div class="search-b"><div class="search-c"><span>Looking for something?</span><form class="search-form" method="get" action="https://www.withloveleena.com/" role="search" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction"><label class="search-form-label screen-reader-text" for="searchform-1">Search</label><input class="search-form-input" type="search" name="s" id="searchform-1" placeholder="Search" itemprop="query-input"><input class="search-form-submit" type="submit" value="&#xf002;"><meta content="https://www.withloveleena.com/?s={s}" itemprop="target"></form></div></div></div></div><div class="slider-widget"><div class="ud-slider one-left"><div class="item"><div class="item-img" style="background:url(https://www.withloveleena.com/wp-content/uploads/2020/07/8R4A8107-819x1024.jpg)"></div><div class="slider-a"><div class="slider-b"><div class="slider-c"><div class="header-meta"><a href="https://www.withloveleena.com/category/mom-and-baby/">Mom and Baby</a></div><a href="https://www.withloveleena.com/whats-in-my-hospital-bag/"><h4 class="post-title">What&#8217;s In My Hospital Bag!</h4></a><div class="header-meta"><ul><li><time class="entry-time" itemprop="datePublished" datetime="2023-06-11T22:45:00-04:00">June 11, 2023</time></li></ul></div><div class="read-more"><a href="https://www.withloveleena.com/whats-in-my-hospital-bag/" rel="bookmark">Read More</a></div></div></div></div></div></div></div><div class="featured-widget"><h3 class="container-title" itemprop="headline"><span>Featured</span></h3><div class="ud-featured"><div class="featured-left"><div class="featured-item"><div class="featured-img"><a href="https://www.withloveleena.com/how-to-dress-up-your-loungewear/"><div class="featured-item-img lazyload" data-bg="https://www.withloveleena.com/wp-content/uploads/2021/03/8R1A0775.jpg" style="background-image:url(https://www.withloveleena.com/wp-content/uploads/2021/03/8R1A0775.jpg)"></div></a></div><div class="featured-info"><div class="featured-info-a"><div class="featured-info-b"><a class="post-cat" href="https://www.withloveleena.com/category/fashion/">Fashion</a><a href="https://www.withloveleena.com/how-to-dress-up-your-loungewear/"><h4 class="post-title">How To Dress Up Your Loungewear</h4></a><p>&nbsp; Thank God loungewear is on trend and an acceptable outfit to wear out and about right now! I find myself living in sets like these around the house, and then when I need to leave the house to run...</p><div class="read-more"><a href="https://www.withloveleena.com/how-to-dress-up-your-loungewear/" rel="bookmark">Read More</a></div></div></div></div></div></div><div class="featured-right"><div class="featured-item"><a href="https://www.withloveleena.com/affordable-winter-basics-from-walmart/"><div class="featured-item-img lazyload" data-bg="https://www.withloveleena.com/wp-content/uploads/2020/12/8R1A9344.jpg" style="background-image:url(https://www.withloveleena.com/wp-content/uploads/2020/12/8R1A9344.jpg)"></div></a><div class="featured-info"><div class="featured-info-a"><div class="featured-info-b"><span class="post-cat">Fashion</span><a href="https://www.withloveleena.com/affordable-winter-basics-from-walmart/"><h4 class="post-title">Affordable Winter Basics from Walmart!</h4></a></div></div></div></div><div class="featured-item"><a href="https://www.withloveleena.com/express-black-friday-sale-50-off-site-wide-free-shipping/"><div class="featured-item-img lazyload" data-bg="https://www.withloveleena.com/wp-content/uploads/2020/11/ICP00032.jpg" style="background-image:url(https://www.withloveleena.com/wp-content/uploads/2020/11/ICP00032.jpg)"></div></a><div class="featured-info"><div class="featured-info-a"><div class="featured-info-b"><span class="post-cat">Fashion</span><a href="https://www.withloveleena.com/express-black-friday-sale-50-off-site-wide-free-shipping/"><h4 class="post-title">Express Black Friday Sale! 50% Off Site-Wide + Free Shipping!</h4></a></div></div></div></div><div class="featured-item"><div class="featured-img"><a href="https://www.withloveleena.com/fall-date-night-outfit-inspo/"><div class="featured-item-img lazyload" data-bg="https://www.withloveleena.com/wp-content/uploads/2020/10/ICP07103.jpg" style="background-image:url(https://www.withloveleena.com/wp-content/uploads/2020/10/ICP07103.jpg)"></div></a></div><div class="featured-info"><div class="featured-info-a"><div class="featured-info-b"><a class="post-cat" href="https://www.withloveleena.com/category/fashion/">Fashion</a><a href="https://www.withloveleena.com/fall-date-night-outfit-inspo/"><h4 class="post-title">Fall Date Night Outfit Inspo!</h4></a><p>Hi Lovelies! I hope you are having the best day! Omar and I have gone on 3 date nights in the past 2 months since Alaina was born and I can truly say it is SO necessary for us to...</p><div class="read-more"><a href="https://www.withloveleena.com/fall-date-night-outfit-inspo/" rel="bookmark">Read More</a></div></div></div></div></div></div></div></div><div class="homepage-two homepage-widgets"><div class="wrap"><section id="custom_html-3" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><h4 class="widget-title widgettitle"><span>my current favorites</span></h4><div class="textwidget custom-html-widget"><div data-sc-widget-id="P-60e37f86dc79a86e64e02560"></div><script async src="//widgets.shopstyle.com/shopstyle-widget-snippet.js"></script></div></div></section>
+<section id="latest-videos-10" class="widget latest-videos"><div class="widget-wrap"><h4 class="widget-title widgettitle"><span>latest youtube videos</span></h4>        <script>
+            (function($) {
+                function getVideos(b) {
+                    $.ajax({
+                        url: "https://www.googleapis.com/youtube/v3/playlistItems",
+                        type: "GET",
+                        dataType: "json",
+                        data: {
+                            part: "snippet",
+                            playlistId: b,
+                            chart: "mostPopular",
+                            maxResults: 3,
+                            key: ' AIzaSyDIZw5PlsiAGUoS4Z4DrOmqmrBPcDLewuY'
+                        },
+                        success: function(c) {
+                            var a;
+                            for (a = 0; 3 > a; a++) {
+                                var d = $(),
+                                    e = '',
+                                    b = "https://www.youtube.com/watch?v=" + c.items[a].snippet.resourceId.videoId,
+                                    e = $("<a target='_blank'>").attr("href", b).append(
+                                        $("<div class='ud-image' style='background-image:url(" + c.items[a].snippet.thumbnails.medium.url + ")'><img src='" + c.items[a].snippet.thumbnails.medium.url + "'>").append(e, '<div class="ud-ytplay"><div class="info-a"><div class="info-b"><i aria-hidden="true" class="fa fa-youtube-play"></i></div></div></div>')
+                                    ),
+                                    d = $("<div class='ud-video'>").append(e, d);
+                                $("#ud-feed1854094620 span").append(d);
+                            }
+                        }
+                    });
+                }
+                jQuery(document).ready(function() {
+                    var ytusername = "UCFlVeT7oDLA2JhU57Ed3JKA ";
+                    if (ytusername) {
+                        $.ajax({
+                            url: "https://www.googleapis.com/youtube/v3/channels",
+                            type: "GET",
+                            dataType: "json",
+                            data: {
+                                part: "contentDetails",
+                                id: ytusername,
+                                key: ' AIzaSyDIZw5PlsiAGUoS4Z4DrOmqmrBPcDLewuY'
+                            },
+                            success: function(data) {
+                                var uploads = data.items[0].contentDetails.relatedPlaylists.uploads;
+                                getVideos(uploads);
+                            }
+                        });
+                    }
+                });
+            })(jQuery);
+            </script>
+        <div id="ud-feed1854094620"><span></span></div></div></section>
+</div></div><div class="site-inner"><div class="wrap"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><h3 class="container-title" itemprop="headline"><span>The blog</span></h3><div class="posts-outer three-column"><div class="post-grid first one-third"><article class="post-9969 post type-post status-publish format-standard has-post-thumbnail category-mom-and-baby entry" aria-label="What&#8217;s In My Hospital Bag!" itemscope itemtype="https://schema.org/CreativeWork"><div class="grid-img-outer grid-img-three-column"><a href="https://www.withloveleena.com/whats-in-my-hospital-bag/" rel="bookmark"><div class="grid-img lazyload landscape" data-bg="https://www.withloveleena.com/wp-content/uploads/2020/07/8R4A8107-819x1024.jpg" style="background-image:url(https://www.withloveleena.com/wp-content/uploads/2020/07/8R4A8107-819x1024.jpg);"><span></span></div></a></div><div class="grid-info-three-column"><ul class="grid-meta"><li><a href="https://www.withloveleena.com/category/mom-and-baby/">Mom and Baby</a></li><li><time class="entry-time" itemprop="datePublished" datetime="2023-06-11T22:45:00-04:00">June 11, 2023</time></li></ul><a href="https://www.withloveleena.com/whats-in-my-hospital-bag/" rel="bookmark"><h2 class="entry-title" itemprop="headline"><div class="grid-info-a"><div class="grid-info-b">What&#8217;s In My Hospital Bag!</div></div></h2></a><div class="grid-body"><p>Hi Loves! Here is a list of essentials that I&#8217;m packing in my hospital bag! I am packing mine and the baby&#8217;s things in a small carry on luggage, and my husband&#8217;s things, camera equipment, and snacks in a duffle...</p><div class="read-more"><a href="https://www.withloveleena.com/whats-in-my-hospital-bag/" rel="bookmark">Read More</a></div></div></div></article></div><div class="post-grid one-third"><article class="post-11279 post type-post status-publish format-standard category-mom-and-baby entry" aria-label="Postpartum Essentials" itemscope itemtype="https://schema.org/CreativeWork"><div class="grid-img-outer grid-img-three-column"><a href="https://www.withloveleena.com/postpartum-essentials/" rel="bookmark"><div class="grid-img lazyload landscape" data-bg="https://www.withloveleena.com/wp-content/uploads/2023/06/POSTPARTUM-ESSENTIALS-576x1024.png" style="background-image:url(https://www.withloveleena.com/wp-content/uploads/2023/06/POSTPARTUM-ESSENTIALS-576x1024.png);"><span></span></div></a></div><div class="grid-info-three-column"><ul class="grid-meta"><li><a href="https://www.withloveleena.com/category/mom-and-baby/">Mom and Baby</a></li><li><time class="entry-time" itemprop="datePublished" datetime="2023-06-11T10:45:25-04:00">June 11, 2023</time></li></ul><a href="https://www.withloveleena.com/postpartum-essentials/" rel="bookmark"><h2 class="entry-title" itemprop="headline"><div class="grid-info-a"><div class="grid-info-b">Postpartum Essentials</div></div></h2></a><div class="grid-body"><p>Always Discreet Diapers: https://amzn.to/3OTEMUw Tucks Pads: https://amzn.to/3WQEr6X Dermoplast: https://amzn.to/3qhEigI Frida Mom Peri Bottle: https://amzn.to/3oU31Hw Postpartum/Breastfeeding friendly loungewear: https://amzn.to/3OV1g7x Nursing Bra: https://amzn.to/3oLUG8V Robe: https://amzn.to/43ZHPz5 Belly Support Band: https://amzn.to/3oKtaIO Nipple Butter: https://amzn.to/42o0brW</p><div class="read-more"><a href="https://www.withloveleena.com/postpartum-essentials/" rel="bookmark">Read More</a></div></div></div></article></div><div class="post-grid one-third"><article class="post-11258 post type-post status-publish format-standard has-post-thumbnail category-mom-and-baby entry" aria-label="Pregnancy Must-Haves" itemscope itemtype="https://schema.org/CreativeWork"><div class="grid-img-outer grid-img-three-column"><a href="https://www.withloveleena.com/pregnancy-must-haves/" rel="bookmark"><div class="grid-img lazyload landscape" data-bg="https://www.withloveleena.com/wp-content/uploads/2023/04/PREGNANCY-MUST-HAVES-576x1024.png" style="background-image:url(https://www.withloveleena.com/wp-content/uploads/2023/04/PREGNANCY-MUST-HAVES-576x1024.png);"><span></span></div></a></div><div class="grid-info-three-column"><ul class="grid-meta"><li><a href="https://www.withloveleena.com/category/mom-and-baby/">Mom and Baby</a></li><li><time class="entry-time" itemprop="datePublished" datetime="2023-06-02T12:41:16-04:00">June 2, 2023</time></li></ul><a href="https://www.withloveleena.com/pregnancy-must-haves/" rel="bookmark"><h2 class="entry-title" itemprop="headline"><div class="grid-info-a"><div class="grid-info-b">Pregnancy Must-Haves</div></div></h2></a><div class="grid-body"><p>Maternity Long Sleeve Shirts: https://amzn.to/41bb4xr True &amp; Co. Bras: https://amzn.to/3KEaJh5 Maternity Leggings: https://amzn.to/40IhHr0 Maternity Belly Band: https://amzn.to/3Kg7VFI Simple Modern 40oz Tumbler: https://amzn.to/3Gj5gtK Ritual Prenatal Vitamins: https://amzn.to/3MqtVQL Raspberry Leaf Herbal Tea: https://amzn.to/3UfvEdC OSEA Body Oil: https://amzn.to/3Ki5273 Josie Maran Body Butter: https://amzn.to/40L6JkI...</p><div class="read-more"><a href="https://www.withloveleena.com/pregnancy-must-haves/" rel="bookmark">Read More</a></div></div></div></article></div><div class="post-grid first one-third"><article class="post-11261 post type-post status-publish format-standard has-post-thumbnail category-uncategorized entry" aria-label="Eid Gift Ideas" itemscope itemtype="https://schema.org/CreativeWork"><div class="grid-img-outer grid-img-three-column"><a href="https://www.withloveleena.com/eid-gift-ideas/" rel="bookmark"><div class="grid-img lazyload landscape" data-bg="https://www.withloveleena.com/wp-content/uploads/2023/04/EID-GIFTS-2-576x1024.png" style="background-image:url(https://www.withloveleena.com/wp-content/uploads/2023/04/EID-GIFTS-2-576x1024.png);"><span></span></div></a></div><div class="grid-info-three-column"><ul class="grid-meta"><li><a href="https://www.withloveleena.com/category/uncategorized/">Uncategorized</a></li><li><time class="entry-time" itemprop="datePublished" datetime="2023-04-10T15:05:29-04:00">April 10, 2023</time></li></ul><a href="https://www.withloveleena.com/eid-gift-ideas/" rel="bookmark"><h2 class="entry-title" itemprop="headline"><div class="grid-info-a"><div class="grid-info-b">Eid Gift Ideas</div></div></h2></a><div class="grid-body"><p>Stemless Glasses: https://amzn.to/3Kikz6S Double Wall Glass Coffee Mugs: https://amzn.to/3ZNpnah Zalatimo Assorted Mamoul: https://amzn.to/3mdNv8g Prayer Mat: https://amzn.to/3nU5gd0 Knit Throw Blanket: https://amzn.to/3KkzJbQ Essential Oil Diffuser: https://amzn.to/3zBDvsj Inscense Holder: https://amzn.to/3GpccFE Diptyque Candle: https://amzn.to/3MpyhYA Jo Malone Candle: https://amzn.to/3MiXa88 Nest Fragrances Votive Candles: https://amzn.to/40Q1C2A Nest...</p><div class="read-more"><a href="https://www.withloveleena.com/eid-gift-ideas/" rel="bookmark">Read More</a></div></div></div></article></div><div class="post-grid one-third"><article class="post-11247 post type-post status-publish format-standard has-post-thumbnail category-mom-and-baby entry" aria-label="Newborn Must Haves" itemscope itemtype="https://schema.org/CreativeWork"><div class="grid-img-outer grid-img-three-column"><a href="https://www.withloveleena.com/newborn-must-haves/" rel="bookmark"><div class="grid-img lazyload landscape" data-bg="https://www.withloveleena.com/wp-content/uploads/2023/02/BABY-ESSENTIALS-SLEEP-576x1024.png" style="background-image:url(https://www.withloveleena.com/wp-content/uploads/2023/02/BABY-ESSENTIALS-SLEEP-576x1024.png);"><span></span></div></a></div><div class="grid-info-three-column"><ul class="grid-meta"><li><a href="https://www.withloveleena.com/category/mom-and-baby/">Mom and Baby</a></li><li><time class="entry-time" itemprop="datePublished" datetime="2023-02-23T15:15:55-05:00">February 23, 2023</time></li></ul><a href="https://www.withloveleena.com/newborn-must-haves/" rel="bookmark"><h2 class="entry-title" itemprop="headline"><div class="grid-info-a"><div class="grid-info-b">Newborn Must Haves</div></div></h2></a><div class="grid-body"><p>With our second baby coming around the corner, I wanted to put together a list of newborn essentials that I loved using last time along with a few more products I purchased this time around! I hope this is helpful!...</p><div class="read-more"><a href="https://www.withloveleena.com/newborn-must-haves/" rel="bookmark">Read More</a></div></div></div></article></div><div class="post-grid one-third"><article class="post-11230 post type-post status-publish format-standard has-post-thumbnail category-amazon entry" aria-label="2022 Amazon Favorites" itemscope itemtype="https://schema.org/CreativeWork"><div class="grid-img-outer grid-img-three-column"><a href="https://www.withloveleena.com/2022-amazon-favorites/" rel="bookmark"><div class="grid-img lazyload landscape" data-bg="https://www.withloveleena.com/wp-content/uploads/2022/12/YouTube-Thumbnail-1024x576.jpg" style="background-image:url(https://www.withloveleena.com/wp-content/uploads/2022/12/YouTube-Thumbnail-1024x576.jpg);"><span></span></div></a></div><div class="grid-info-three-column"><ul class="grid-meta"><li><a href="https://www.withloveleena.com/category/shop/amazon/">Amazon</a></li><li><time class="entry-time" itemprop="datePublished" datetime="2022-12-31T13:32:08-05:00">December 31, 2022</time></li></ul><a href="https://www.withloveleena.com/2022-amazon-favorites/" rel="bookmark"><h2 class="entry-title" itemprop="headline"><div class="grid-info-a"><div class="grid-info-b">2022 Amazon Favorites</div></div></h2></a><div class="grid-body"><p>Hey guys! Here is a list of all of my favorite Amazon products from this year! Hope you enjoy! Bodysuits: https://amzn.to/3jaD4QK Layering Shirts: https://amzn.to/3V7ntie Black 2 Piece Loungewear Set: https://amzn.to/3UXC7so Striped Sweater: https://amzn.to/3iZb16O The Drop Sweater Dress: https://amzn.to/3j9JIab Double Sided...</p><div class="read-more"><a href="https://www.withloveleena.com/2022-amazon-favorites/" rel="bookmark">Read More</a></div></div></div></article></div></div><div class="clearfix"></div><div class="archive-pagination pagination" role="navigation" aria-label="Pagination"><ul><li class="active" ><a href="https://www.withloveleena.com/" aria-label="Current page" aria-current="page"><span class="screen-reader-text">Go to page</span> 1</a></li>
+<li><a href="https://www.withloveleena.com/page/2/"><span class="screen-reader-text">Go to page</span> 2</a></li>
+<li><a href="https://www.withloveleena.com/page/3/"><span class="screen-reader-text">Go to page</span> 3</a></li>
+<li class="pagination-omission"><span class="screen-reader-text">Interim pages omitted</span> &#x02026;</li> 
+<li><a href="https://www.withloveleena.com/page/21/"><span class="screen-reader-text">Go to page</span> 21</a></li>
+<li class="pagination-next"><a href="https://www.withloveleena.com/page/2/" >Next <i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
+</ul></div>
+</main></div></div></div><div class="insta-footer"><section id="instagram-feed-widget-12" class="widget widget_instagram-feed-widget"><div class="widget-wrap"><h4 class="widget-title widgettitle"><span>Follow For More!</span></h4>
+<div id="sb_instagram" class="sbi sbi_col_6  sbi_width_resp sbi_disable_mobile" style="width: 100%;" data-feedid="sbi_withloveleena#12" data-res="full" data-cols="6" data-num="12" data-shortcode-atts="{&quot;num&quot;:&quot;12&quot;,&quot;cols&quot;:&quot;6&quot;,&quot;showbutton&quot;:&quot;false&quot;,&quot;showheader&quot;:&quot;false&quot;,&quot;imageres&quot;:&quot;full&quot;}"  data-postid="11230" data-sbi-flags="favorLocal">
+	
+    <div id="sbi_images" >
+		<div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17865132606033355" data-date="1706551302">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/C2sXSoGpalG/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/422881517_350786277862987_8827854161376723661_n.jpg?_nc_cat=100&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=YdmK8ooY-60AX8p1G-2&#038;_nc_ht=scontent-lax3-2.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfBNaKz6jjsvJMzQtAJfoZE3yxkkRIh351-LRGhGRQNthA&#038;oe=65BF8A98" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-lax3-2.cdninstagram.com\/v\/t51.29350-15\/422881517_350786277862987_8827854161376723661_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=YdmK8ooY-60AX8p1G-2&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfBNaKz6jjsvJMzQtAJfoZE3yxkkRIh351-LRGhGRQNthA&amp;oe=65BF8A98&quot;,&quot;150&quot;:&quot;https:\/\/scontent-lax3-2.cdninstagram.com\/v\/t51.29350-15\/422881517_350786277862987_8827854161376723661_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=YdmK8ooY-60AX8p1G-2&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfBNaKz6jjsvJMzQtAJfoZE3yxkkRIh351-LRGhGRQNthA&amp;oe=65BF8A98&quot;,&quot;320&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/422881517_350786277862987_8827854161376723661_nlow.jpg&quot;,&quot;640&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/422881517_350786277862987_8827854161376723661_nfull.jpg&quot;}">
+            <span class="sbi-screenreader">Nontoxic fabric protector spray linked in my story</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.withloveleena.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Nontoxic fabric protector spray linked in my story and my @amazon storefront in my bio 🤍 #founditonamazon #ad @amazonhome">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18031032796830990" data-date="1706377304">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C2nMqGvJQ01/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-lax3-1.cdninstagram.com/v/t39.30808-6/421723146_18417044878016332_6105950117392099869_n.jpg?_nc_cat=105&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=6Yc5eP2ybRwAX8CUWcp&#038;_nc_ht=scontent-lax3-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfCvISz0pmS5rSab9FOx4W9TC9un1Czj0u5aCVYJKt4bQg&#038;oe=65BEDDC4" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-lax3-1.cdninstagram.com\/v\/t39.30808-6\/421723146_18417044878016332_6105950117392099869_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=6Yc5eP2ybRwAX8CUWcp&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfCvISz0pmS5rSab9FOx4W9TC9un1Czj0u5aCVYJKt4bQg&amp;oe=65BEDDC4&quot;,&quot;150&quot;:&quot;https:\/\/scontent-lax3-1.cdninstagram.com\/v\/t39.30808-6\/421723146_18417044878016332_6105950117392099869_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=6Yc5eP2ybRwAX8CUWcp&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfCvISz0pmS5rSab9FOx4W9TC9un1Czj0u5aCVYJKt4bQg&amp;oe=65BEDDC4&quot;,&quot;320&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/421723146_18417044878016332_6105950117392099869_nlow.jpg&quot;,&quot;640&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/421723146_18417044878016332_6105950117392099869_nfull.jpg&quot;}">
+            <span class="sbi-screenreader">Looks this week 🥰🤍 which one is your favorit</span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://www.withloveleena.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Looks this week 🥰🤍 which one is your favorite?">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18026293333908346" data-date="1706293735">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C2ktQtaJAEF/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-lax3-1.cdninstagram.com/v/t39.30808-6/421712236_18416870533016332_3825060411645151050_n.jpg?_nc_cat=105&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=WPXbQkAka5oAX_U6Srq&#038;_nc_ht=scontent-lax3-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfArt-wT6X6qkH85WIelDc6EJ3mQwQo60QTWInA81zy1hw&#038;oe=65BF6758" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-lax3-1.cdninstagram.com\/v\/t39.30808-6\/421712236_18416870533016332_3825060411645151050_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=WPXbQkAka5oAX_U6Srq&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfArt-wT6X6qkH85WIelDc6EJ3mQwQo60QTWInA81zy1hw&amp;oe=65BF6758&quot;,&quot;150&quot;:&quot;https:\/\/scontent-lax3-1.cdninstagram.com\/v\/t39.30808-6\/421712236_18416870533016332_3825060411645151050_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=WPXbQkAka5oAX_U6Srq&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfArt-wT6X6qkH85WIelDc6EJ3mQwQo60QTWInA81zy1hw&amp;oe=65BF6758&quot;,&quot;320&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/421712236_18416870533016332_3825060411645151050_nlow.jpg&quot;,&quot;640&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/421712236_18416870533016332_3825060411645151050_nfull.jpg&quot;}">
+            <span class="sbi-screenreader">My princess ✨👸🏼🥰</span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://www.withloveleena.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="My princess ✨👸🏼🥰">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18044543851606811" data-date="1706029224">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/C2c0QRkJtrQ/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-lax3-1.cdninstagram.com/v/t51.29350-15/421023361_286056087813927_2846195017146812935_n.jpg?_nc_cat=110&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=n3Pvsa_gCwQAX_XVpCT&#038;_nc_ht=scontent-lax3-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfDj_5ShXzDApKghcU8hKh_fPg6jS5bOUXsChHYURXT1yg&#038;oe=65BFD1B1" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-lax3-1.cdninstagram.com\/v\/t51.29350-15\/421023361_286056087813927_2846195017146812935_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=n3Pvsa_gCwQAX_XVpCT&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDj_5ShXzDApKghcU8hKh_fPg6jS5bOUXsChHYURXT1yg&amp;oe=65BFD1B1&quot;,&quot;150&quot;:&quot;https:\/\/scontent-lax3-1.cdninstagram.com\/v\/t51.29350-15\/421023361_286056087813927_2846195017146812935_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=n3Pvsa_gCwQAX_XVpCT&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDj_5ShXzDApKghcU8hKh_fPg6jS5bOUXsChHYURXT1yg&amp;oe=65BFD1B1&quot;,&quot;320&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/421023361_286056087813927_2846195017146812935_nlow.jpg&quot;,&quot;640&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/421023361_286056087813927_2846195017146812935_nfull.jpg&quot;}">
+            <span class="sbi-screenreader">Have you tried any of these?? 😍 everything link</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.withloveleena.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Have you tried any of these?? 😍 everything linked in my @amazon storefront in my bio 🫶💗 #founditonamazon #ad @amazonhome">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18038647558651478" data-date="1705845657">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C2XWnvBASpQ/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-lax3-1.cdninstagram.com/v/t51.29350-15/420149450_693971419255602_1899155967588535217_n.jpg?_nc_cat=108&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=bnxg2ntPS0wAX9U1EOa&#038;_nc_ht=scontent-lax3-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfBLF9la6O-pbYFlZ9xl4jXl4t17SS6f5Djc7OT6Of53zw&#038;oe=65BF3855" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-lax3-1.cdninstagram.com\/v\/t51.29350-15\/420149450_693971419255602_1899155967588535217_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=bnxg2ntPS0wAX9U1EOa&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfBLF9la6O-pbYFlZ9xl4jXl4t17SS6f5Djc7OT6Of53zw&amp;oe=65BF3855&quot;,&quot;150&quot;:&quot;https:\/\/scontent-lax3-1.cdninstagram.com\/v\/t51.29350-15\/420149450_693971419255602_1899155967588535217_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=bnxg2ntPS0wAX9U1EOa&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfBLF9la6O-pbYFlZ9xl4jXl4t17SS6f5Djc7OT6Of53zw&amp;oe=65BF3855&quot;,&quot;320&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/420149450_693971419255602_1899155967588535217_nlow.jpg&quot;,&quot;640&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/420149450_693971419255602_1899155967588535217_nfull.jpg&quot;}">
+            <span class="sbi-screenreader"></span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://www.withloveleena.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="1 million subscribers in my YouTube family 🥹🫶 and just hit 1.5M on IG too!! 10 years ago I filmed an “about me” video on my laptop camera and a couple of hijab tutorials and I would have never believed you if you told me we would be here today!! My goal was to inspire Muslim women to have confidence in themselves and it hasn’t changed till this day 💗 Just wanted to take a moment to celebrate because I realize I actually never celebrate any of my milestones and I’m so grateful for all of the incredible women from all over the world who have joined this community and follow along my journey 💗 I literally have the best community and love you all so much!!!!🥰🫶 also I couldn’t have done it without my biggest supporter @omarsnoubar. He has done so much work with me behind the scenes that most people don’t see 💗">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18033163513741534" data-date="1705416411">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C2Kj5m9AZho/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-lax3-1.cdninstagram.com/v/t51.29350-15/419327584_753067540036601_4978049838888466116_n.jpg?_nc_cat=105&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=L2a-_JSP5e4AX_Fiseo&#038;_nc_oc=AQkTkajXa3QswkW00BgZoo14zda0AOYKGLf3Q-UBQxWJ3hQarqFpJlLwzmllPgGG-Lk&#038;_nc_ht=scontent-lax3-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfDXAbiMvazqUQGBE12tykD645Iq7K-eWph3Gws1DXORyw&#038;oe=65BE5101" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-lax3-1.cdninstagram.com\/v\/t51.29350-15\/419327584_753067540036601_4978049838888466116_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=L2a-_JSP5e4AX_Fiseo&amp;_nc_oc=AQkTkajXa3QswkW00BgZoo14zda0AOYKGLf3Q-UBQxWJ3hQarqFpJlLwzmllPgGG-Lk&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDXAbiMvazqUQGBE12tykD645Iq7K-eWph3Gws1DXORyw&amp;oe=65BE5101&quot;,&quot;150&quot;:&quot;https:\/\/scontent-lax3-1.cdninstagram.com\/v\/t51.29350-15\/419327584_753067540036601_4978049838888466116_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=L2a-_JSP5e4AX_Fiseo&amp;_nc_oc=AQkTkajXa3QswkW00BgZoo14zda0AOYKGLf3Q-UBQxWJ3hQarqFpJlLwzmllPgGG-Lk&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDXAbiMvazqUQGBE12tykD645Iq7K-eWph3Gws1DXORyw&amp;oe=65BE5101&quot;,&quot;320&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/419327584_753067540036601_4978049838888466116_nlow.jpg&quot;,&quot;640&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/419327584_753067540036601_4978049838888466116_nfull.jpg&quot;}">
+            <span class="sbi-screenreader">Life lately 🥹💗 in my mom era and I wouldn’</span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://www.withloveleena.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Life lately 🥹💗 in my mom era and I wouldn’t have it any other way 👶🏼 we are almost done sleep training Jonah and even though I thought I never would, it has already improved my mental health so much because I’m not waking up 2-3 times a night 😆 I actually slept the whole night last night for the first time in like year! and I was also able to take a bath!! I forgot what it was like to have an evening to myself!! Also we finally got the curtains for the bathroom so I can actually use the tub now 😂">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_carousel sbi_new sbi_transition" id="sbi_18047061448582880" data-date="1705344593">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/C2Ia6rDplAK/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/419503561_1081226349744382_4179637189146113594_n.jpg?_nc_cat=100&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=y_ywx2iKeb8AX95wFn0&#038;_nc_ht=scontent-lax3-2.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfCd3IpRu-GYQmfO38xDadIjdiV0SJWkVH2ps3cjycVDYg&#038;oe=65BFE0E4" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-lax3-2.cdninstagram.com\/v\/t51.29350-15\/419503561_1081226349744382_4179637189146113594_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=y_ywx2iKeb8AX95wFn0&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfCd3IpRu-GYQmfO38xDadIjdiV0SJWkVH2ps3cjycVDYg&amp;oe=65BFE0E4&quot;,&quot;150&quot;:&quot;https:\/\/scontent-lax3-2.cdninstagram.com\/v\/t51.29350-15\/419503561_1081226349744382_4179637189146113594_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=y_ywx2iKeb8AX95wFn0&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfCd3IpRu-GYQmfO38xDadIjdiV0SJWkVH2ps3cjycVDYg&amp;oe=65BFE0E4&quot;,&quot;320&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/419503561_1081226349744382_4179637189146113594_nlow.jpg&quot;,&quot;640&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/419503561_1081226349744382_4179637189146113594_nfull.jpg&quot;}">
+            <span class="sbi-screenreader"></span>
+            <svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+	                <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+	            </svg>	                    <img src="https://www.withloveleena.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Best weekend with the family visiting Amanda 🥹💗">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17948055041746313" data-date="1704902357">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/C17PPgRAvpq/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/418013548_2649274675219603_2006185009986076673_n.jpg?_nc_cat=106&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=Mzx5IDbDYuMAX_ZG1qJ&#038;_nc_ht=scontent-lax3-2.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfDS_HzCPpBWqZBV_Q_LUaWuKg9BZzaqljz7TdefUIlBqg&#038;oe=65BE5812" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-lax3-2.cdninstagram.com\/v\/t51.29350-15\/418013548_2649274675219603_2006185009986076673_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=Mzx5IDbDYuMAX_ZG1qJ&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDS_HzCPpBWqZBV_Q_LUaWuKg9BZzaqljz7TdefUIlBqg&amp;oe=65BE5812&quot;,&quot;150&quot;:&quot;https:\/\/scontent-lax3-2.cdninstagram.com\/v\/t51.29350-15\/418013548_2649274675219603_2006185009986076673_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=Mzx5IDbDYuMAX_ZG1qJ&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDS_HzCPpBWqZBV_Q_LUaWuKg9BZzaqljz7TdefUIlBqg&amp;oe=65BE5812&quot;,&quot;320&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/418013548_2649274675219603_2006185009986076673_nlow.jpg&quot;,&quot;640&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/418013548_2649274675219603_2006185009986076673_nfull.jpg&quot;}">
+            <span class="sbi-screenreader">Wishing you guys the very best this year love you </span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.withloveleena.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Wishing you guys the very best this year love you all 🕊️🍉💗">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17848905525116483" data-date="1704406876">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/C1seSU2Jk49/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/416085270_240652972387300_9210855739110132542_n.jpg?_nc_cat=100&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=xwP96nPKrswAX-PZtet&#038;_nc_ht=scontent-lax3-2.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfDVmQe5m_A1nVHppoDZZYXTJwtMT8AzQsW1Wh6fZMKI1w&#038;oe=65BFFB37" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-lax3-2.cdninstagram.com\/v\/t51.29350-15\/416085270_240652972387300_9210855739110132542_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=xwP96nPKrswAX-PZtet&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDVmQe5m_A1nVHppoDZZYXTJwtMT8AzQsW1Wh6fZMKI1w&amp;oe=65BFFB37&quot;,&quot;150&quot;:&quot;https:\/\/scontent-lax3-2.cdninstagram.com\/v\/t51.29350-15\/416085270_240652972387300_9210855739110132542_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=xwP96nPKrswAX-PZtet&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfDVmQe5m_A1nVHppoDZZYXTJwtMT8AzQsW1Wh6fZMKI1w&amp;oe=65BFFB37&quot;,&quot;320&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/416085270_240652972387300_9210855739110132542_nlow.jpg&quot;,&quot;640&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/416085270_240652972387300_9210855739110132542_nfull.jpg&quot;}">
+            <span class="sbi-screenreader">I was just trying to get a fit check 🥲</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.withloveleena.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="I was just trying to get a fit check 🥲">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17881883678994519" data-date="1704384382">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/C1rzRc_AO3F/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/416448705_334359006161752_3770546423256323080_n.jpg?_nc_cat=100&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=D8hygb_ed0YAX-eY-sY&#038;_nc_ht=scontent-lax3-2.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfBPmbMUALY4H7ToQyOwvcQrwmh3erWNCaxprB9pIq4cTw&#038;oe=65BF3A8D" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-lax3-2.cdninstagram.com\/v\/t51.29350-15\/416448705_334359006161752_3770546423256323080_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=D8hygb_ed0YAX-eY-sY&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfBPmbMUALY4H7ToQyOwvcQrwmh3erWNCaxprB9pIq4cTw&amp;oe=65BF3A8D&quot;,&quot;150&quot;:&quot;https:\/\/scontent-lax3-2.cdninstagram.com\/v\/t51.29350-15\/416448705_334359006161752_3770546423256323080_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=D8hygb_ed0YAX-eY-sY&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfBPmbMUALY4H7ToQyOwvcQrwmh3erWNCaxprB9pIq4cTw&amp;oe=65BF3A8D&quot;,&quot;320&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/416448705_334359006161752_3770546423256323080_nlow.jpg&quot;,&quot;640&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/416448705_334359006161752_3770546423256323080_nfull.jpg&quot;}">
+            <span class="sbi-screenreader">Don’t come for me and my crooked labels 😂 eve</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.withloveleena.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Don’t come for me and my crooked labels 😂 everything is linked in my @amazon storefront 🫶💗 #founditonamazon #amazon #ad @amazonhome">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17970163877648612" data-date="1704034641">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/C1hXO_-g6v5/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-lax3-2.cdninstagram.com/v/t51.29350-15/414735578_599583298972707_6557922665811322013_n.jpg?_nc_cat=106&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=KX7MFm5ptasAX_pZJ_Y&#038;_nc_ht=scontent-lax3-2.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfAb83OWIAf-g38ZPrDuGA0vS4SiONx2TvCiG2ATIcfPBg&#038;oe=65BF4B26" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-lax3-2.cdninstagram.com\/v\/t51.29350-15\/414735578_599583298972707_6557922665811322013_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=KX7MFm5ptasAX_pZJ_Y&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAb83OWIAf-g38ZPrDuGA0vS4SiONx2TvCiG2ATIcfPBg&amp;oe=65BF4B26&quot;,&quot;150&quot;:&quot;https:\/\/scontent-lax3-2.cdninstagram.com\/v\/t51.29350-15\/414735578_599583298972707_6557922665811322013_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=KX7MFm5ptasAX_pZJ_Y&amp;_nc_ht=scontent-lax3-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfAb83OWIAf-g38ZPrDuGA0vS4SiONx2TvCiG2ATIcfPBg&amp;oe=65BF4B26&quot;,&quot;320&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/414735578_599583298972707_6557922665811322013_nlow.jpg&quot;,&quot;640&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/414735578_599583298972707_6557922665811322013_nfull.jpg&quot;}">
+            <span class="sbi-screenreader">What a whirlwind this year was! We finished buildi</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.withloveleena.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="What a whirlwind this year was! We finished building the house, I had 3 major product collaborations (Ivy city dresses, 2nd Amazon the drop collection, Awtani Heeya Bracelet) went to Umrah and a quick babymoon to Mexico all while pregnant with our baby boy 🥹 then our sweet Jonah joined our family, we traveled to Canada with a 5 week old for Loren’s wedding, then came back and packed up our house and finally moved into the new house! We never expected this year to end the way it did. Life felt like it just came to a halt the last 3 months. I will continue to fight for what is right and Inshallah 2024 is the year we see Palestine free. 🕊️">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18261727777201366" data-date="1703431628">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/C1PaF7nAv8G/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-lax3-1.cdninstagram.com/v/t51.29350-15/412700322_7747604161919716_3500750153485805407_n.jpg?_nc_cat=108&#038;ccb=1-7&#038;_nc_sid=18de74&#038;_nc_ohc=ezr0pnexqpQAX9g0657&#038;_nc_ht=scontent-lax3-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;oh=00_AfD0NbB3NwWWaS_nojYznhol-ahcBeYlEKNudLSHEayOfg&#038;oe=65BF77FE" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-lax3-1.cdninstagram.com\/v\/t51.29350-15\/412700322_7747604161919716_3500750153485805407_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=ezr0pnexqpQAX9g0657&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfD0NbB3NwWWaS_nojYznhol-ahcBeYlEKNudLSHEayOfg&amp;oe=65BF77FE&quot;,&quot;150&quot;:&quot;https:\/\/scontent-lax3-1.cdninstagram.com\/v\/t51.29350-15\/412700322_7747604161919716_3500750153485805407_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=18de74&amp;_nc_ohc=ezr0pnexqpQAX9g0657&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;oh=00_AfD0NbB3NwWWaS_nojYznhol-ahcBeYlEKNudLSHEayOfg&amp;oe=65BF77FE&quot;,&quot;320&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/412700322_7747604161919716_3500750153485805407_nlow.jpg&quot;,&quot;640&quot;:&quot;https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/412700322_7747604161919716_3500750153485805407_nfull.jpg&quot;}">
+            <span class="sbi-screenreader">Our mom loved them 🥹</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="https://www.withloveleena.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Our mom loved them 🥹">
+        </a>
+    </div>
+</div>    </div>
+
+	<div id="sbi_load">
+
+	
+	    <span class="sbi_follow_btn">
+        <a href="https://www.instagram.com/withloveleena/"  target="_blank" rel="noopener nofollow"><svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>Follow on Instagram</a>
+    </span>
+	
+</div>
+	    <span class="sbi_resized_image_data" data-feed-id="sbi_withloveleena#12" data-resized="{&quot;18261727777201366&quot;:{&quot;id&quot;:&quot;412700322_7747604161919716_3500750153485805407_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;17970163877648612&quot;:{&quot;id&quot;:&quot;414735578_599583298972707_6557922665811322013_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;17881883678994519&quot;:{&quot;id&quot;:&quot;416448705_334359006161752_3770546423256323080_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;17848905525116483&quot;:{&quot;id&quot;:&quot;416085270_240652972387300_9210855739110132542_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;17948055041746313&quot;:{&quot;id&quot;:&quot;418013548_2649274675219603_2006185009986076673_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18047061448582880&quot;:{&quot;id&quot;:&quot;419503561_1081226349744382_4179637189146113594_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18033163513741534&quot;:{&quot;id&quot;:&quot;419327584_753067540036601_4978049838888466116_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18038647558651478&quot;:{&quot;id&quot;:&quot;420149450_693971419255602_1899155967588535217_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18044543851606811&quot;:{&quot;id&quot;:&quot;421023361_286056087813927_2846195017146812935_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18026293333908346&quot;:{&quot;id&quot;:&quot;421712236_18416870533016332_3825060411645151050_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18031032796830990&quot;:{&quot;id&quot;:&quot;421723146_18417044878016332_6105950117392099869_n&quot;,&quot;ratio&quot;:&quot;0.80&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;17865132606033355&quot;:{&quot;id&quot;:&quot;422881517_350786277862987_8827854161376723661_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}}}">
+	</span>
+	</div>
+
+</div></section>
+</div><div class="footer-area-two"><div class="wrap"><section id="enews-ext-13" class="widget enews-widget"><div class="widget-wrap"><div class="enews enews-3-fields"><h4 class="widget-title widgettitle"><span>Want Some Inbox Love?</span></h4>			<form id="subscribeenews-ext-13" class="enews-form" action="https://withloveleena.us6.list-manage.com/subscribe/post?u=f81183abd84bae662469b4a36&amp;id=fb9adfa8a2" method="post"
+				 target="_blank" 				name="enews-ext-13"
+			>
+									<input type="text" id="subbox1" class="enews-subbox enews-fname" value="" aria-label="First Name" placeholder="First Name" name="FNAME" />									<input type="text" id="subbox2" class="enews-subbox enews-lname" value="" aria-label="Last Name" placeholder="Last Name" name="LNAME" />				<input type="email" value="" id="subbox" class="enews-email" aria-label="E-Mail Address" placeholder="E-Mail Address" name="EMAIL"
+																																			required="required" />
+								<input type="submit" value="Go" id="subbutton" class="enews-submit" />
+			</form>
+		</div></div></section>
+</div></div><footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter"><div class="wrap"><div class="footer-credits"><div class="wrap"><span class="first one-half credits-left">Copyright © 2024 <a href="https://www.withloveleena.com/" title="With Love, Leena.">With Love, Leena.</a></span><span class="one-half credits-right"><a class="back-top" href="#">Back to Top</a></span></div></div></div></footer></div><div class="sub-pop-overlay popup-style-one" style="display: none;"><div class="sub-pop-overlay-a"><div class="sub-pop-overlay-b"><div class="sub-pop-widget"><div class="popup-image" style="background-image:url(http://www.withloveleena.com/wp-content/uploads/2020/12/8R1A9357.jpg)"></div><div id="mc_embed_signup"><a class="b-close"><span></span></a><form action="https://withloveleena.us6.list-manage.com/subscribe/post?u=f81183abd84bae662469b4a36&amp;id=fb9adfa8a2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><div class="sub-header"><div class="subscribe-title"><h2>Want Some Inbox Love?</h2></div><div class="subscribe-subtitle">Get new updates straight to your e-mail! </div></div><div id="mc_embed_signup_scroll"><div class="mc-field-group"><input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="First Name"></div><div class="mc-field-group"><input type="text" value="" name="LNAME" class="" id="mce-LNAME" placeholder="Last Name "></div><div class="mc-field-group"><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address"></div><div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+        </div>
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f067b4025b7432271e50c2f09_71377bcac0" tabindex="-1" value=""></div>
+        <div class="clear mc-sbmt"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+        </div></form></div></div></div></div></div><!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.withloveleena.com/wp-admin/admin-ajax.php";
+</script>
+		<div id="jp-carousel-loading-overlay">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading">&nbsp;</span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay jp-carousel-light" style="display: none;">
+
+		<div class="jp-carousel-container jp-carousel-light">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper-container jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<h2 class="jp-carousel-photo-caption"></h2>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+													<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
+								<span class="jp-carousel-icon">
+									<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+										<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+											<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+										</mask>
+										<g mask="url(#maskInfo)">
+											<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+										</g>
+									</svg>
+								</span>
+							</a>
+																		<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Toggle photo comments visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="This image has comments."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<h2 class="jp-carousel-photo-title"></h2>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Loading Comments...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner">&nbsp;</span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Write a Comment...</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Write a Comment..."
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">Email (Required)</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Name (Required)</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Website</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Post Comment" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<h3 class="jp-carousel-caption" itemprop="caption description"></h3>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<ul class="jp-carousel-image-exif" style="display: none;"></ul>
+							<a class="jp-carousel-image-download" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		<script src='https://www.withloveleena.com/wp-content/plugins/ud-popup-subscribe//js/script.js?ver=4.1.1' id='popup_scripts-js'></script>
+<script src='https://www.withloveleena.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2' id='hoverIntent-js'></script>
+<script src='https://www.withloveleena.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10' id='superfish-js'></script>
+<script src='https://www.withloveleena.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=3.3.3' id='superfish-args-js'></script>
+<script src='https://www.withloveleena.com/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=3.3.3' id='skip-links-js'></script>
+<script src='https://www.withloveleena.com/wp-content/themes/alt/lib/slick/slick.min.js?ver=5.9.9' id='slick.min-js'></script>
+<script src='https://www.withloveleena.com/wp-content/themes/alt/js/fitvids.min.js?ver=5.9.9' id='fitvids.min-js'></script>
+<script src='https://www.withloveleena.com/wp-content/themes/alt/js/bpopup.min.js?ver=5.9.9' id='bPopup-js'></script>
+<script src='https://www.withloveleena.com/wp-content/themes/alt/js/masonry.pkgd.min.js?ver=5.9.9' id='masonry.pkgd.min-js'></script>
+<script src='https://www.withloveleena.com/wp-content/themes/alt/js/theia-sticky-sidebar.min.js?ver=5.9.9' id='theia-sticky-sidebar.min-js'></script>
+<script src='https://www.withloveleena.com/wp-content/themes/alt/js/imagesloaded.pkgd.min.js?ver=5.9.9' id='imagesloaded.pkgd.min-js'></script>
+<script src='https://www.withloveleena.com/wp-content/themes/alt/js/scripts.min.js?ver=1.6.6' id='alt-scripts.min-js'></script>
+<script id='alt-responsive-menu-js-extra'>
+var genesis_responsive_menu = {"mainMenu":"<span>Menu<\/span>","menuIconClass":"dashicons-before dashicons-menu","subMenu":"Submenu","subMenuIconClass":"dashicons-before dashicons-arrow-down-alt2","menuClasses":{"combine":[".nav-primary"]}};
+</script>
+<script src='https://www.withloveleena.com/wp-content/themes/genesis/lib/js/menu/responsive-menus.min.js?ver=1.1.3' id='alt-responsive-menu-js'></script>
+<script id='jetpack-carousel-js-extra'>
+var jetpackSwiperLibraryPath = {"url":"https:\/\/www.withloveleena.com\/wp-content\/plugins\/jetpack\/_inc\/build\/carousel\/swiper-bundle.min.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/www.withloveleena.com\/wp-admin\/admin-ajax.php","nonce":"c48ea747c7","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"white","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/www.withloveleena.com\/wp-login.php?redirect_to=https%3A%2F%2Fwww.withloveleena.com%2Fhow-to-dress-up-your-loungewear%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"]};
+</script>
+<script src='https://www.withloveleena.com/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=9.9.2' id='jetpack-carousel-js'></script>
+<script id='sb_instagram_scripts-js-extra'>
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/www.withloveleena.com\/wp-content\/uploads\/sb-instagram-feed-images\/","placeholder":"https:\/\/www.withloveleena.com\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png"};
+</script>
+<script src='https://www.withloveleena.com/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=2.9.1' id='sb_instagram_scripts-js'></script>
+<script src='https://stats.wp.com/e-202405.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.9.2',blog:'75389812',post:'0',tz:'-5',srv:'www.withloveleena.com'} ]);
+	_stq.push([ 'clickTrackerInit', '75389812', '0' ]);
+</script>
+</body></html>
